@@ -14,8 +14,8 @@ A simple Python program to encrypt and decrypt messages using the Caesar Cipher 
 
 **Clone the project and navigate to the directory:**
 
-- git clone (https://github.com/vatsalsapovadiya/PRODIGY_CS_TASK-1)
-- cd Caesar_Cipher
+- git clone https://github.com/vatsalsapovadiya/PRODIGY_CS_TASK-1
+- cd PRODIGY_CS_TASK-1
 
 **Run the program:**
 - python main.py
